@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 My name is Agustin and i'm a Frontend Developer
+💻 My name is Agustin and i'm a Frontend Developer <br/>
 🌱 My main skills are JavaScript, TypeScript, React, NodeJs, Express and MongoDB (I’m currently developing my backend skills haha!) 
 ⚡ I'm interested in creating attractive interfaces and modern components
 📫 If you want to talk with me, my mail is _coelhoagustin1@gmail.com_ and there is my linkedin: _https://www.linkedin.com/in/agustin-coelho/_
