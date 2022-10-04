@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 My name is Agustin and i'm a frontend developer with React and TypeScript 
+💻 My name is Agustin and i'm a frontend developer with React and TypeScript 
 
 
 
