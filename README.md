@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💻 My name is Agustin and i'm a frontend developer with React and TypeScript 
+
+
+
 <!--
 **ccoelh0/ccoelh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
