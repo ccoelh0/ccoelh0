@@ -6,7 +6,7 @@
 <br/>
 ⚡ I'm interested in creating attractive interfaces <br/>
 <br/>
-📫 If you want to talk with me, there are my <a href='mailto:coelhoagustin1@gmail.com'>email</a> and my <a href='https://www.linkedin.com/in/agustin-coelho/'>linkedin</a>
+📫 If you want to talk to me, here is my <a href='mailto:coelhoagustin1@gmail.com'>email</a> and my <a href='https://www.linkedin.com/in/agustin-coelho/'>linkedin</a>
 
 <!--
 **ccoelh0/ccoelh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
