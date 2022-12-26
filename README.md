@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 My name is Agustin and i'm a Frontend Developer <br/>
+💻 My name is Agustin and i'm a Fullstack Developer <br/>
 <br/>
 🌱 My main skills are JavaScript, TypeScript, React, NodeJs, Express and MongoDB <br/>
 <br/>
